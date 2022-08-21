@@ -1,4 +1,4 @@
-package com.example.financialgoals
+package com.example.fgoal
 
 import org.junit.Test
 

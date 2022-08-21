@@ -45,4 +45,6 @@ class Goal (var name : String, var cost : BigDecimal?, var weight : Int, var sta
         return this.endDate
     }
 
+    var list = arrayListOf<Goal>()
+
 }
